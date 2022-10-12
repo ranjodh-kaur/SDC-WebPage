@@ -4,8 +4,9 @@ This is personal website.
 
 ## Hobbies
 1. Sleeping
-2. eating
+2. Eating
 3. Roaming
+4. Reading
 
 ## Qualification
 - B.Tech
