@@ -13,3 +13,6 @@ This is personal website.
 - M.Tech
 
 I study at [GNDEC](https://gndec.ac.in)
+
+
+Byee
